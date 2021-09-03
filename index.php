@@ -38,7 +38,7 @@
             </div>
             <div class="col-12 col-sm 1 col-md-2 col-lg-2 col-xl-3"></div>
         </div>
-        <div class="row shadow-lg border p-5">
+        <div class="row shadow-lg border p-5 my-3">
             <div class="col-12 col-sm-6 col-md-3 col-lg-3 co-xl-3">
                 <div class="card" style="width: 18rem;">
                     <img src="assets\fotos\WhatsApp Image 2021-09-03 at 4.39.22 PM.jpeg" class="card-img-top imagenes" alt="...">
