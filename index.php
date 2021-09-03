@@ -7,6 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Arqueo Local</title>
     <link rel="stylesheet" href="css\bootstrap.min.css">
+    <link rel="stylesheet" href="css\styles.css">
 </head>
 
 <body>
@@ -40,7 +41,7 @@
         <div class="row shadow-lg border p-5">
             <div class="col-12 col-sm-6 col-md-3 col-lg-3 co-xl-3">
                 <div class="card" style="width: 18rem;">
-                    <img src="assets\fotos\WhatsApp Image 2021-09-03 at 4.39.22 PM.jpeg" class="card-img-top" alt="...">
+                    <img src="assets\fotos\WhatsApp Image 2021-09-03 at 4.39.22 PM.jpeg" class="card-img-top imagenes" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Card title</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -50,7 +51,7 @@
             </div>
             <div class="col-12 col-sm-6 col-md-3 col-lg-3 co-xl-3">
                 <div class="card" style="width: 18rem;">
-                    <img src="assets\fotos\WhatsApp Image 2021-09-03 at 4.39.40 PM.jpeg" class="card-img-top" alt="...">
+                    <img src="assets\fotos\WhatsApp Image 2021-09-03 at 4.39.40 PM.jpeg" class="card-img-top imagenes" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Card title</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -60,7 +61,7 @@
             </div>
             <div class="col-12 col-sm-6 col-md-3 col-lg-3 co-xl-3">
                 <div class="card" style="width: 18rem;">
-                    <img src="assets\fotos\WhatsApp Image 2021-09-03 at 4.41.31 PM.jpeg" class="card-img-top" alt="...">
+                    <img src="assets\fotos\WhatsApp Image 2021-09-03 at 4.41.31 PM.jpeg" class="card-img-top imagenes" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Card title</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -70,7 +71,7 @@
             </div>
             <div class="col-12 col-sm-6 col-md-3 col-lg-3 co-xl-3">
                 <div class="card" style="width: 18rem;">
-                    <img src="assets\fotos\WhatsApp Image 2021-09-03 at 4.49.14 PM.jpeg" class="card-img-top" alt="...">
+                    <img src="assets\fotos\WhatsApp Image 2021-09-03 at 4.49.14 PM.jpeg" class="card-img-top imagenes" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Card title</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -80,7 +81,7 @@
             </div>
             <div class="col-12 col-sm-6 col-md-3 col-lg-3 co-xl-3">
                 <div class="card" style="width: 18rem;">
-                    <img src="assets\fotos\WhatsApp Image 2021-09-03 at 4.52.03 PM.jpeg" class="card-img-top" alt="...">
+                    <img src="assets\fotos\WhatsApp Image 2021-09-03 at 4.52.03 PM.jpeg" class="card-img-top imagenes" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Card title</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
