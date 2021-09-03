@@ -92,6 +92,19 @@
         </div>
     </div>
 
+    <footer>
+        <div class="container-fluid">
+            <div class="row bg-dark text-white">
+                <div class="col-12 col-sm-6 col-md-4">
+                    <p class="my-3">
+                        “Somos una organización de marketing pensada para poner tu el radar tu empresa, empezando desde la creación hasta la proyección, nuestra enfoque esencial es exclusivo con las empresas colombianas”
+                    </p>
+                </div>
+                <div class="col-12 col-sm-6 col-md-4"></div>
+                <div class="col-12 col-sm-6 col-md-4"></div>
+            </div>
+        </div>
+    </footer>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
 </body>
 
