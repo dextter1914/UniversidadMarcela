@@ -275,9 +275,11 @@
             <div class="row bg-dark text-white">
                 <div class="col-12 col-sm-6 col-md-4">
                     <p class="my-3">
-                        “Somos una organización de marketing pensada para poner tu el
-                        radar tu empresa, empezando desde la creación hasta la proyección,
-                        nuestra enfoque esencial es exclusivo con las empresas colombianas”
+                        “Somos una compañia que ayuda al fortalecimiento finanaciero 
+                de las pequeñas y medianas empresas asi como a emprendedores, 
+                para que puedan seguir desempeñandose en sus mercados y en el 
+                medio economico en general, alcanzando sus objetivos de rentabilidad y 
+                crecimiento.”
                     </p>
                 </div>
                 <div class="col-12 col-sm-6 col-md-4">
