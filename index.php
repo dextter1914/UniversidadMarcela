@@ -36,11 +36,7 @@
                 <h1 class="text-center">ARQUEO LOCAL</h1>
                 <img class="shadow-lg img img-fluid" src="assets\ArqueoLocal.jpg" alt="Arqueo Local">
                 <p class="my-2" style="text-align: justify;">
-                Somos una compañia que ayuda al fortalecimiento finanaciero 
-                de las pequeñas y medianas empresas asi como a emprendedores, 
-                para que puedan seguir desempeñandose en sus mercados y en el 
-                medio economico en general, alcanzando sus objetivos de rentabilidad y 
-                crecimiento.
+                “Somos una organización de Consultoría en marketing pensada para poner en el radar tu empresa, empezando desde la creación hasta la proyección, nuestra enfoque esencial es exclusivo con las empresas colombianas”
                 </p>
             </div>
             <div class="col-12 col-sm 1 col-md-2 col-lg-2 col-xl-3"></div>
@@ -193,7 +189,7 @@
                         <h5 class="card-title">Melisa Rojas</h5>
                         <p class="card-text">
                             Me caracterizo por ser una persona precisa, entregada,
-                            noble, muy segura 
+                            noble, muy segura
                         </p>
                         <!-- Button trigger modal -->
                         <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#MelisaRojas">
@@ -237,7 +233,7 @@
                         </p>
                         <!-- Button trigger modal -->
                         <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#LorenaDelgado">
-                        Lorena Delgado
+                            Lorena Delgado
                         </button>
                         <!-- Modal -->
                         <div class="modal fade" id="LorenaDelgado" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
@@ -275,24 +271,20 @@
             <div class="row bg-dark text-white">
                 <div class="col-12 col-sm-6 col-md-4">
                     <p class="my-3">
-                        “Somos una compañia que ayuda al fortalecimiento finanaciero 
-                de las pequeñas y medianas empresas asi como a emprendedores, 
-                para que puedan seguir desempeñandose en sus mercados y en el 
-                medio economico en general, alcanzando sus objetivos de rentabilidad y 
-                crecimiento.”
+                        “Somos una organización de Consultoría en marketing pensada para poner en el radar tu empresa, empezando desde la creación hasta la proyección, nuestra enfoque esencial es exclusivo con las empresas colombianas”
                     </p>
                 </div>
                 <div class="col-12 col-sm-6 col-md-4">
                     <p class="my-3">
-                    Todo esto lo logramos a un gran grupo de ejecutivos y 
-                    expertos que permite a nuestros clientes las mejoras 
-                    necesarias para el exito de su negocio.
+                        Todo esto lo logramos a un gran grupo de ejecutivos y
+                        expertos que permite a nuestros clientes las mejoras
+                        necesarias para el exito de su negocio.
                     </p>
                 </div>
                 <div class="col-12 col-sm-6 col-md-4">
                     <p class="my-3">
-                        <strong>CONTACTENOS:</strong> Para ofrecerle la mejor 
-                        solucion en consultoria y marketing para 
+                        <strong>CONTACTENOS:</strong> Para ofrecerle la mejor
+                        solucion en consultoria y marketing para
                         su negocio.
                     </p>
                 </div>
