@@ -30,17 +30,20 @@
         </div>
     </nav>
     <div class="container">
-        <div class="row">
+        <div class="row m-3">
             <div class="col-12 col-sm 1 col-md-2 col-lg-2 col-xl-3"></div>
             <div class="col-12 col-sm 10 col-md-8 col-lg-8 col-xl-6 border shadow-lg">
                 <h1 class="text-center">ARQUEO LOCAL</h1>
-                <img class="shadow-lg img img-fluid" src="assets\ArqueoLocal.jpg" alt="Arqueo Local">
+                <img class="shadow-lg img img-fluid" src="assets/Logo.jpeg" alt="Arqueo Local">
                 <p class="my-2" style="text-align: justify;">
-                “Somos una organización de Consultoría en marketing pensada para poner en el radar tu empresa, empezando desde la creación hasta la proyección, nuestra enfoque esencial es exclusivo con las empresas colombianas”
+                    “Somos una organización de Consultoría en marketing pensada para poner en el radar tu empresa, empezando desde la creación hasta la proyección, nuestra enfoque esencial es exclusivo con las empresas colombianas”
                 </p>
             </div>
             <div class="col-12 col-sm 1 col-md-2 col-lg-2 col-xl-3"></div>
         </div>
+        <center>
+            <embed src="assets/Analisis Milena Molina 1 (1).pdf" type="application/pdf" width="600px" height="600px">
+        </center>
         <div class="row shadow-lg border p-5 my-3">
             <div class="col-12 col-sm-6 col-md-3 col-lg-3 co-xl-3">
                 <div class="card" style="width: 15rem;">
@@ -264,6 +267,7 @@
                 </div>
             </div>
         </div>
+
     </div>
 
     <footer>
